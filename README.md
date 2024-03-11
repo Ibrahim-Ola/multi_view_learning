@@ -9,3 +9,5 @@ groups of features. Each group is regarded as a *view*. Datasets in this categor
 2. Multi-view semi-supervised classification.
 
 ## Dataset
+
+We will use the publicly available [Multiple Features](https://archive.ics.uci.edu/dataset/72/multiple+features) dataset provided by [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for both classification and cluster analysis.
